@@ -1,7 +1,7 @@
 ####
 ## Intro
 - 본 repository는 deep learning / CNN(Convolutional Neural Network) 독학 내용을 개인 복습용으로 정리했습니다.
-- 첨부된 파일 내의 모든 코드는 직접 실습하여 작성했으며, 학습 진도에 맞춘 세부 contents는 하기와 같습니다. 
+- 첨부된 파일 내의 모든 코드는 학습 내용을 참고해 직접 작성했으며, 학습 진도에 맞춘 세부 contents는 하기와 같습니다.
 ####
 ## Contents
 #### ► [01_dl_cnn_basic]
@@ -23,9 +23,7 @@
 - 08_dl_cnn_data_augmentation_v8_220707
 - 09_dl_cnn_transfer_learning_vgg16_v9_220707
 - 10_dl_cnn_transfer_learning_xception_v10_220708
-####
-#### ► [03_dl_cnn_intermediate_comprehensive_practice]
-- 01_dl_cnn_intermediate_comprehensive_practice1_220715
+- 11_dl_cnn_intermediate_comprehensive_practice_220715
 ####
 ## Reference
 - [Coding apple] Tensorflow 딥러닝 AI 기초부터 실무까지 강의
