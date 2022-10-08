@@ -11,7 +11,7 @@
 #### ► [02_dl_keras_framework_functional_api_v2_220701]
 - dense layer를 기반으로 functional API를 활용한 모델 생성 실습
 - model.summary() 출력 시, bias가 포함된 parameter 수의 이해와 계산 실습
-####
+####  
 #### ► [03_dl_cnn_baseline_model_v3_220704]
 - CIFAR10 dataset을 이용해, 10개의 object class에 속할 확률을 예측하는 모델 생성
 - conv 연산을 연달아 적용한 후, max pooling을 배치하는 방향으로 model 생성
@@ -60,4 +60,7 @@
 - input size를 32x32에서 64x64로 변경하는 방법 실습
 - CNN 실습을 통해 습득한 방법을 일괄 함수화하여 정리하는 방법 실습
 - ✓ 실습 결과, Xception model을 통한 transfer learning 진행 시, 0.9308까지 test accuracy 향상
+##  
+#### ► [11_dl_cnn_intermediate_comprehensive_practice_220715]
+- stanford dogs dataset을 이용해, 120여종의 품종을 구분하는 모델 생성 실습
 ####
