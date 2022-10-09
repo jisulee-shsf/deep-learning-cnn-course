@@ -28,4 +28,4 @@
 - CIFAR10 dataset을 이용해, 10개의 object class에 속할 확률을 예측하는 모델 생성
 - dropout layer 적용 여부에 따른 예측 성능 변화 확인
 - subplot을 활용한 이미지 시각화 실습
-####ßß
+####  
