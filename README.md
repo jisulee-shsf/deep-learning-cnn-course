@@ -27,6 +27,6 @@
 ####
 ## Reference
 - [Coding apple] Tensorflow 딥러닝 AI 기초부터 실무까지 강의
-- [Inflearn] 딥러닝 CNN 완벽 가이드 / Fundamental 강의
+- [Inflearn] 딥러닝 CNN 완벽 가이드 강의
 - https://www.tensorflow.org/
 ####
