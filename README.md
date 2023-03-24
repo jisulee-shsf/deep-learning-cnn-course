@@ -7,7 +7,7 @@
 #### ► [01_dl_cnn_basic]
 - 01_dl_keras_framework_220625  
 - 02_dl_keras_framework_220626  
-- 03_dl_cnn_basic_0627  
+- 03_dl_cnn_basic_220627  
 - 04_dl_cnn_basic_220627  
 - 05_dl_cnn_basic_220628  
 - 06_dl_cnn_basic_220629  
