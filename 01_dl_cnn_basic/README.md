@@ -5,11 +5,11 @@
 - dense layer를 기반으로 sequential API를 활용한 기초 모델 생성 실습
 - sigmoid activation / binary crossentropy loss function의 이해와 적용 실습
 ####
-#### ► [02_dl_keras_framework_0626]
+#### ► [02_dl_keras_framework_220626]
 - Fashion MNIST dataset을 이용해, 10개의 의류 class에 속할 확률을 예측하는 모델 생성
 - flatten layer / softmax activation / sparse categorical crossentropy loss function의 이해와 적용 실습
 ####
-#### ► [03_dl_cnn_basic_0627]
+#### ► [03_dl_cnn_basic_220627]
 - Fashion MNIST dataset을 이용해, 10개의 의류 class에 속할 확률을 예측하는 모델 생성
 - conv 구성에 따른 input shape / padding(valid, same) / max pooling의 이해와 적용 실습
 - scaling의 이해와 model summary의 parameter 수 계산 실습 
