@@ -5,12 +5,12 @@
 ####
 ## Contents
 #### ► [01_dl_cnn_basic]
-- 01_dl_keras_framework_basic_practice1_220625  
-- 02_dl_keras_framework_basic_practice2_v1_0626  
-- 03_dl_cnn_basic_practice2_v2_0627  
-- 04_dl_cnn_basic_practice3_v1_220627  
-- 05_dl_cnn_basic_practice3_v2_220628  
-- 06_dl_cnn_basic_practice4_220629  
+- 01_dl_keras_framework_220625  
+- 02_dl_keras_framework_220626  
+- 03_dl_cnn_basic_0627  
+- 04_dl_cnn_basic_220627  
+- 05_dl_cnn_basic_220628  
+- 06_dl_cnn_basic_220629  
 ####
 #### ► [02_dl_cnn_intermediate]
 - 01_dl_keras_framework_sequecial_api_v1_220629
