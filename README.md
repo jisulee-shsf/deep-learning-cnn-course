@@ -4,7 +4,7 @@
 - 모든 코드는 실습 내용을 바탕으로 직접 작성했으며, 학습 진도에 맞춘 세부 contents는 아래와 같습니다.
 ####
 ## Contents
-#### ► [01_dl_cnn_basic]
+#### 📌 [01_dl_cnn_basic]
 - 01_dl_keras_framework_220625  
 - 02_dl_keras_framework_220626  
 - 03_dl_cnn_basic_220627  
@@ -12,7 +12,7 @@
 - 05_dl_cnn_basic_220628  
 - 06_dl_cnn_basic_220629  
 ####
-#### ► [02_dl_cnn_intermediate]
+#### 📌 [02_dl_cnn_intermediate]
 - 01_dl_keras_framework_sequecial_api_v1_220629
 - 02_dl_keras_framework_functional_api_v2_220701
 - 03_dl_cnn_baseline_model_v3_220704
