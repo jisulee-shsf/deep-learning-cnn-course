@@ -1,5 +1,5 @@
 ####
-## Deep learning ・ CNN
+## 📌 Convolutional Neural Networks II
 ####
 #### ► [01_dl_keras_framework_sequential_api_v1_220629]
 - Fashion MNIST dataset을 이용해, 10개의 의류 class에 속할 확률을 예측하는 모델 생성
