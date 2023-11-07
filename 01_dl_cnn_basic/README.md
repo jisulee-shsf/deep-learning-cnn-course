@@ -1,5 +1,5 @@
 ####
-## Deep learning ・ CNN
+## 📌 Deep learning ・ CNN
 #### ► [01_dl_keras_framework_220625]
 - gpascore dataset을 이용해, 대학원 합격 여부(admit)를 예측하는 이진 분류 모델 생성
 - dense layer를 기반으로 sequential API를 활용한 기초 모델 생성 실습
